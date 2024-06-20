@@ -1,0 +1,300 @@
+{
+  "version": "1.0.0",
+  "map": {
+    "/Users/a1/templateProject/assets/resources.meta": {
+      "time": 1716349806153.761
+    },
+    "/Users/a1/templateProject/assets/resources": {
+      "time": 1718867557823.1008,
+      "uuid": "e2056357-745f-4af9-ba70-eb97a8e33538"
+    },
+    "/Users/a1/templateProject/assets/scripts.meta": {
+      "time": 1716349842345.6665
+    },
+    "/Users/a1/templateProject/assets/scripts": {
+      "time": 1718873576792.7864,
+      "uuid": "ca903cf7-48c1-4370-b0a7-a6bc28563667"
+    },
+    "/Users/a1/templateProject/assets/scripts/gesture.meta": {
+      "time": 1716349978199.8389
+    },
+    "/Users/a1/templateProject/assets/scripts/gesture": {
+      "time": 1716363463770.132,
+      "uuid": "113f38b3-5cb0-4caf-8b67-e3cccf336209"
+    },
+    "/Users/a1/templateProject/assets/scripts/gesture/GuestureManger.ts.meta": {
+      "time": 1716350006522.1306
+    },
+    "/Users/a1/templateProject/assets/scripts/gesture/GuestureManger.ts": {
+      "time": 1716366522410.9614,
+      "uuid": "cfcc0354-bd4a-4cbe-9fbc-dc77cbeb13ca"
+    },
+    "/Users/a1/templateProject/assets/scripts/gesture/guestDemo.ts.meta": {
+      "time": 1716363463772.4204
+    },
+    "/Users/a1/templateProject/assets/scripts/gesture/guestDemo.ts": {
+      "time": 1716798979793.4104,
+      "uuid": "a27da4f1-70be-4040-9606-c24efafbb648"
+    },
+    "/Users/a1/templateProject/assets/scene.scene.meta": {
+      "time": 1716366624631.4841
+    },
+    "/Users/a1/templateProject/assets/scene.scene": {
+      "time": 1718871825816.0808,
+      "uuid": "5d80c035-c1c5-4cd5-b405-125242ef3bdc"
+    },
+    "/Users/a1/templateProject/assets/scripts/physicsSystem2D.meta": {
+      "time": 1716367986301.184
+    },
+    "/Users/a1/templateProject/assets/scripts/physicsSystem2D": {
+      "time": 1716371043776.0212,
+      "uuid": "5328c305-2a0f-40c4-a04f-7b3e9dd2e1a4"
+    },
+    "/Users/a1/templateProject/assets/scripts/physicsSystem2D/PhysicsManger.ts.meta": {
+      "time": 1716371043793.807
+    },
+    "/Users/a1/templateProject/assets/scripts/physicsSystem2D/PhysicsManger.ts": {
+      "time": 1716373029545.08,
+      "uuid": "fdc0461c-0f2c-47af-b2e0-a6dddaba6e27"
+    },
+    "/Users/a1/templateProject/assets/resources/centerauthe.png.meta": {
+      "time": 1716430549493.5535
+    },
+    "/Users/a1/templateProject/assets/resources/centerauthe.png": {
+      "time": 1716430549279.8342,
+      "uuid": "6acef1f7-1245-4d92-a48e-10b37b820396"
+    },
+    "/Users/a1/templateProject/assets/effects.meta": {
+      "time": 1716433889732.9795
+    },
+    "/Users/a1/templateProject/assets/effects": {
+      "time": 1716433964328.776,
+      "uuid": "ef3f2051-cf9a-4d57-84be-564678394a80"
+    },
+    "/Users/a1/templateProject/assets/effects/light.meta": {
+      "time": 1716433965159.1653
+    },
+    "/Users/a1/templateProject/assets/effects/light/eff.effect.meta": {
+      "time": 1716433965296.095
+    },
+    "/Users/a1/templateProject/assets/effects/light/light.ts.meta": {
+      "time": 1716433965288.7083
+    },
+    "/Users/a1/templateProject/assets/effects/light/light_body.ts.meta": {
+      "time": 1716433965290.4465
+    },
+    "/Users/a1/templateProject/assets/effects/light": {
+      "time": 1716436383845.7415,
+      "uuid": "28d13850-e429-47a4-94ec-889606aa3c55"
+    },
+    "/Users/a1/templateProject/assets/effects/light/light.ts": {
+      "time": 1697652298000,
+      "uuid": "a2c2b112-9ea6-43bd-ac7f-cf9d54629fea"
+    },
+    "/Users/a1/templateProject/assets/effects/light/light_body.ts": {
+      "time": 1697652298000,
+      "uuid": "f5909932-c96e-4d67-8d48-7ffffe4aca07"
+    },
+    "/Users/a1/templateProject/assets/effects/light/eff.effect": {
+      "time": 1697652298000,
+      "uuid": "5d644299-a3c8-4493-929d-1b6b7448c394"
+    },
+    "/Users/a1/templateProject/assets/effects/light/mat-bg.mtl.meta": {
+      "time": 1716433965435.2373
+    },
+    "/Users/a1/templateProject/assets/effects/light/mat.mtl.meta": {
+      "time": 1716433965445.3271
+    },
+    "/Users/a1/templateProject/assets/effects/light/mat_normal.mtl.meta": {
+      "time": 1716433965435.5994
+    },
+    "/Users/a1/templateProject/assets/effects/light/mat-bg.mtl": {
+      "time": 1716443694424.1729,
+      "uuid": "364fd0aa-49e7-47cb-9be4-0188b639b8d3"
+    },
+    "/Users/a1/templateProject/assets/effects/light/mat_normal.mtl": {
+      "time": 1716448739305.1292,
+      "uuid": "c8d5a334-fc11-43f7-b234-feb95e0be28b"
+    },
+    "/Users/a1/templateProject/assets/effects/light/mat.mtl": {
+      "time": 1716448859371.1138,
+      "uuid": "a6eec30c-ffdd-44af-95f4-2d558bee3bc9"
+    },
+    "/Users/a1/templateProject/assets/resources/image.meta": {
+      "time": 1716436373299.838
+    },
+    "/Users/a1/templateProject/assets/resources/image": {
+      "time": 1716437740804.994,
+      "uuid": "b95ad2a7-0279-4af5-90ba-552e2ce8a190"
+    },
+    "/Users/a1/templateProject/assets/resources/image/picture.png.meta": {
+      "time": 1716437740805.1338
+    },
+    "/Users/a1/templateProject/assets/resources/image/picture.png": {
+      "time": 1697652298000,
+      "uuid": "cb8f7def-bd34-459c-873c-ec807463c1bb"
+    },
+    "/Users/a1/templateProject/assets/resources/image/background_01.png.meta": {
+      "time": 1716437741164.9133
+    },
+    "/Users/a1/templateProject/assets/resources/image/foreground_02.png.meta": {
+      "time": 1716437741327.5208
+    },
+    "/Users/a1/templateProject/assets/resources/image/foreground_02_n.png.meta": {
+      "time": 1716437741185.5713
+    },
+    "/Users/a1/templateProject/assets/resources/image/light.png.meta": {
+      "time": 1716437741323.7507
+    },
+    "/Users/a1/templateProject/assets/resources/image/normal.png.meta": {
+      "time": 1716437741324.6692
+    },
+    "/Users/a1/templateProject/assets/resources/image/background_01.png": {
+      "time": 1697652298000,
+      "uuid": "04681fb1-ae8e-4850-9185-7ebb6254b5ef"
+    },
+    "/Users/a1/templateProject/assets/resources/image/foreground_02_n.png": {
+      "time": 1697652298000,
+      "uuid": "fa2f71ff-1b23-45a2-be39-a5ca2b6aedba"
+    },
+    "/Users/a1/templateProject/assets/resources/image/light.png": {
+      "time": 1697652298000,
+      "uuid": "480604e0-992b-4f23-a131-0e097c2bc69a"
+    },
+    "/Users/a1/templateProject/assets/resources/image/normal.png": {
+      "time": 1697652298000,
+      "uuid": "d4c4ece0-bc81-482a-a19a-a2e26c1cda06"
+    },
+    "/Users/a1/templateProject/assets/resources/image/foreground_02.png": {
+      "time": 1697652298000,
+      "uuid": "c04f6c2d-226d-48e1-a219-ff9386691caf"
+    },
+    "/Users/a1/templateProject/assets/scripts/native.meta": {
+      "time": 1716788739343.3354
+    },
+    "/Users/a1/templateProject/assets/scripts/native": {
+      "time": 1716788759738.7732,
+      "uuid": "985e7db7-9931-4f17-a977-6730ef97351a"
+    },
+    "/Users/a1/templateProject/assets/scripts/native/CallNative.ts.meta": {
+      "time": 1716788759807.969
+    },
+    "/Users/a1/templateProject/assets/scripts/native/CallNative.ts": {
+      "time": 1716789812017.0803,
+      "uuid": "d3c62edf-6be2-4ec8-88d9-ea605a3aede0"
+    },
+    "/Users/a1/templateProject/assets/scripts/notifition.meta": {
+      "time": 1716790473674.9683
+    },
+    "/Users/a1/templateProject/assets/scripts/notifition": {
+      "time": 1716796623509.2927,
+      "uuid": "a7d75dfe-1afa-439a-8102-0cf6f359ad4d"
+    },
+    "/Users/a1/templateProject/assets/scripts/notifition/Message.ts.meta": {
+      "time": 1716790484726.602
+    },
+    "/Users/a1/templateProject/assets/scripts/notifition/Message.ts": {
+      "time": 1716795507118.1946,
+      "uuid": "aa1e12ab-b137-40aa-a324-b7e465016bcf"
+    },
+    "/Users/a1/templateProject/assets/scripts/notifition/ManagerBase.ts.meta": {
+      "time": 1716794295716.6243
+    },
+    "/Users/a1/templateProject/assets/scripts/notifition/ManagerBase.ts": {
+      "time": 1716795498313.795,
+      "uuid": "0f4ad5dc-cc22-4325-b725-937a766a2b5d"
+    },
+    "/Users/a1/templateProject/assets/scripts/notifition/ComponentBase.ts.meta": {
+      "time": 1716794344195.2922
+    },
+    "/Users/a1/templateProject/assets/scripts/notifition/ComponentBase.ts": {
+      "time": 1716794344085.877,
+      "uuid": "ef32daec-cd4c-4b9f-9898-fb90ebf28a18"
+    },
+    "/Users/a1/templateProject/assets/scripts/notifition/MessageCenter.ts.meta": {
+      "time": 1716794834990.0215
+    },
+    "/Users/a1/templateProject/assets/scripts/notifition/MessageCenter.ts": {
+      "time": 1716795144589.709,
+      "uuid": "73cb830b-e80f-48a2-af1b-114a0d07806d"
+    },
+    "/Users/a1/templateProject/assets/scripts/notifition/test.meta": {
+      "time": 1716795523612.828
+    },
+    "/Users/a1/templateProject/assets/scripts/notifition/test": {
+      "time": 1716798536515.466,
+      "uuid": "4da0e50a-015e-47f5-9c33-632a1e9cac5f"
+    },
+    "/Users/a1/templateProject/assets/scripts/notifition/EventCenter.ts.meta": {
+      "time": 1716796598673.1343
+    },
+    "/Users/a1/templateProject/assets/scripts/notifition/EventCenter.ts": {
+      "time": 1716798141317.7527,
+      "uuid": "ccc9e888-f02f-4686-b491-01990e9366b7"
+    },
+    "/Users/a1/templateProject/assets/scripts/notifition/test/eventTest.ts.meta": {
+      "time": 1716798536518.1194
+    },
+    "/Users/a1/templateProject/assets/scripts/notifition/test/eventTest.ts": {
+      "time": 1716799377611.3179,
+      "uuid": "9bf3902f-ba95-492c-900c-41d73d32f764"
+    },
+    "/Users/a1/templateProject/assets/scripts/EventManager.ts.meta": {
+      "time": 1718864213109.1245
+    },
+    "/Users/a1/templateProject/assets/scripts/EventManager.ts": {
+      "time": 1718866533995.1562,
+      "uuid": "5789aa93-1e30-4f31-a255-243061fc06b6"
+    },
+    "/Users/a1/templateProject/assets/scripts/PollManager.ts.meta": {
+      "time": 1718866553459.1382
+    },
+    "/Users/a1/templateProject/assets/scripts/PollManager.ts": {
+      "time": 1718873683462.6304,
+      "uuid": "fc2556f3-6790-4a4d-83f7-4f6540e9a5ac"
+    },
+    "/Users/a1/templateProject/assets/scripts/DemoFunc.ts.meta": {
+      "time": 1718867316789.608
+    },
+    "/Users/a1/templateProject/assets/scripts/DemoFunc.ts": {
+      "time": 1718873585808.7146,
+      "uuid": "3586bfc8-f356-44db-b320-fc50c400632f"
+    },
+    "/Users/a1/templateProject/assets/resources/prefabs.meta": {
+      "time": 1718867557824.255
+    },
+    "/Users/a1/templateProject/assets/resources/prefabs": {
+      "time": 1718867578685.679,
+      "uuid": "3d61afa0-720a-45f3-a320-1e12531f9335"
+    },
+    "/Users/a1/templateProject/assets/resources/prefabs/person.prefab.meta": {
+      "time": 1718867578704.4597
+    },
+    "/Users/a1/templateProject/assets/resources/prefabs/person.prefab": {
+      "time": 1718867578703.5312,
+      "uuid": "b076076d-5839-4db4-91e4-31d17c953d7c"
+    }
+  },
+  "missing": {
+    "2e7ada9e-8f3c-44d0-99e0-e9699e97e4ef": {
+      "path": "/Users/a1/templateProject/assets/scripts/physicsSystem2D/PhysicsSystem.ts",
+      "time": 1716368158109.754,
+      "removeTime": 1716371043775
+    },
+    "6c5a7231-9077-43a8-a42c-819d037c2de8": {
+      "path": "/Users/a1/templateProject/assets/scripts/notifition/ComponentBase.ts",
+      "time": 1716792288701.111,
+      "removeTime": 1716794253269
+    },
+    "ccc9e888-f02f-4686-b491-01990e9366b7": {
+      "path": "/Users/a1/templateProject/assets/scripts/notifition/NewComponent.ts",
+      "time": 1716796598665.8547,
+      "removeTime": 1716796623531
+    },
+    "b076076d-5839-4db4-91e4-31d17c953d7c": {
+      "path": "/Users/a1/templateProject/assets/resources/prefabs/centerauthe.prefab",
+      "time": 1718867562194.3457,
+      "removeTime": 1718867578692
+    }
+  }
+}

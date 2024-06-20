@@ -1,0 +1,34 @@
+{
+  "path": {
+    "/Users/a1/templateProject/assets/effects/light/eff.effect": [
+      "/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/light-vs.chunk",
+      "/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/builtin/uniforms/cc-global.chunk",
+      "/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/builtin/uniforms/cc-local.chunk",
+      "/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/common/common-define.chunk",
+      "/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/light-fs.chunk",
+      "/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/builtin/internal/embedded-alpha.chunk",
+      "/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/builtin/internal/alpha-test.chunk",
+      "/Users/a1/templateProject/assets/chunks/light-vs.chunk",
+      "/Users/a1/templateProject/assets/chunks/builtin/uniforms/cc-global.chunk",
+      "/Users/a1/templateProject/assets/chunks/builtin/uniforms/cc-local.chunk",
+      "/Users/a1/templateProject/assets/chunks/common/common-define.chunk",
+      "/Users/a1/templateProject/assets/chunks/light-fs.chunk",
+      "/Users/a1/templateProject/assets/chunks/builtin/internal/embedded-alpha.chunk",
+      "/Users/a1/templateProject/assets/chunks/builtin/internal/alpha-test.chunk"
+    ]
+  },
+  "uuid": {
+    "/Users/a1/templateProject/assets/effects/light/mat-bg.mtl": [
+      "a9785e58-678e-4fce-85e2-0a7d5130e765",
+      "5d644299-a3c8-4493-929d-1b6b7448c394"
+    ],
+    "/Users/a1/templateProject/assets/effects/light/mat.mtl": [
+      "a9785e58-678e-4fce-85e2-0a7d5130e765",
+      "5d644299-a3c8-4493-929d-1b6b7448c394"
+    ],
+    "/Users/a1/templateProject/assets/effects/light/mat_normal.mtl": [
+      "a9785e58-678e-4fce-85e2-0a7d5130e765",
+      "5d644299-a3c8-4493-929d-1b6b7448c394"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+    "systemInfo": {
+        "arch": "x64",
+        "cpu": "Intel(R) Core(TM) i5-7500 CPU @ 3.40GHz",
+        "version": "Darwin Kernel Version 22.6.0: Mon Feb 19 19:48:53 PST 2024; root:xnu-8796.141.3.704.6~1/RELEASE_X86_64"
+    },
+    "sceneListMap": {
+        "5d80c035-c1c5-4cd5-b405-125242ef3bdc": "/Users/a1/templateProject/assets/scene.scene"
+    },
+    "deviceMd5": "78f0be31747efd05654ff61c27183ed5"
+}

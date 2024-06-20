@@ -1,0 +1,58 @@
+2024-5-27 17:21:10-log: Cannot access game frame or container.
+2024-5-27 17:21:12-debug: asset-db:require-engine-code (3760ms)
+2024-5-27 17:21:12-log: meshopt wasm decoder initialized
+2024-5-27 17:21:12-log: [box2d]:box2d wasm lib loaded.
+2024-5-27 17:21:12-log: [bullet]:bullet wasm lib loaded.
+2024-5-27 17:21:15-log: Cocos Creator v3.8.2
+2024-5-27 17:21:15-debug: [Assets Memory track]: asset-db:worker-init: initEngine start:20.06MB, end 105.70MB, increase: 85.64MB
+2024-5-27 17:21:16-debug: [Assets Memory track]: asset-db-plugin-register: programming start:106.49MB, end 108.02MB, increase: 1.54MB
+2024-5-27 17:21:25-debug: [Assets Memory track]: asset-db-plugin-enable: builder start:108.55MB, end 207.68MB, increase: 99.13MB
+2024-5-27 17:21:25-debug: [Assets Memory track]: asset-db-plugin-register: engine-extends start:108.07MB, end 210.73MB, increase: 102.66MB
+2024-5-27 17:21:25-debug: [Assets Memory track]: asset-db-plugin-enable: project start:108.19MB, end 210.75MB, increase: 102.56MB
+2024-5-27 17:21:25-debug: [Assets Memory track]: asset-db:worker-init: initPlugin start:105.71MB, end 210.86MB, increase: 105.15MB
+2024-5-27 17:21:25-debug: asset-db:worker-init: initPlugin (9823ms)
+2024-5-27 17:21:25-debug: [Assets Memory track]: asset-db:worker-init start:20.05MB, end 210.97MB, increase: 190.92MB
+2024-5-27 17:21:25-debug: Run asset db hook programming:beforePreStart success!
+2024-5-27 17:21:25-debug: Run asset db hook engine-extends:beforePreStart ...
+2024-5-27 17:21:25-debug: Run asset db hook engine-extends:beforePreStart success!
+2024-5-27 17:21:25-debug: Run asset db hook programming:beforePreStart ...
+2024-5-27 17:21:26-debug: asset-db:worker-init (18114ms)
+2024-5-27 17:21:26-debug: asset-db-hook-programming-beforePreStart (1058ms)
+2024-5-27 17:21:26-debug: asset-db-hook-engine-extends-beforePreStart (1057ms)
+2024-5-27 17:21:26-debug: Preimport db internal success
+2024-5-27 17:21:26-debug: Preimport db assets success
+2024-5-27 17:21:26-debug: Run asset db hook programming:afterPreStart ...
+2024-5-27 17:21:26-debug: starting packer-driver...
+2024-5-27 17:21:27-debug: initialize scripting environment...
+2024-5-27 17:21:27-debug: Set detail map pack:///resolution-detail-map.json: {}
+2024-5-27 17:21:27-debug: Run asset db hook programming:afterPreStart success!
+2024-5-27 17:21:27-debug: Run asset db hook engine-extends:afterPreStart ...
+2024-5-27 17:21:27-debug: Run asset db hook engine-extends:afterPreStart success!
+2024-5-27 17:21:27-debug: Start up the 'internal' database...
+2024-5-27 17:21:27-debug: asset-db-hook-programming-afterPreStart (897ms)
+2024-5-27 17:21:27-debug: asset-db:worker-effect-data-processing (171ms)
+2024-5-27 17:21:27-debug: asset-db-hook-engine-extends-afterPreStart (171ms)
+2024-5-27 17:21:27-debug: Start up the 'assets' database...
+2024-5-27 17:21:27-debug: asset-db:worker-startup-database[internal] (1543ms)
+2024-5-27 17:21:27-debug: asset-db:worker-startup-database[assets] (1250ms)
+2024-5-27 17:21:27-debug: asset-db:ready (24488ms)
+2024-5-27 17:21:27-debug: asset-db:start-database (2341ms)
+2024-5-27 17:21:28-debug: init worker message success
+2024-5-27 17:21:31-debug: [Build Memory track]: builder:worker-init start:189.81MB, end 200.04MB, increase: 10.23MB
+2024-5-27 17:21:31-debug: programming:execute-script (8ms)
+2024-5-27 17:21:31-debug: builder:worker-init (3027ms)
+2024-5-27 17:21:33-debug: programming:execute-script (7ms)
+2024-5-27 17:22:16-debug: refresh db internal success
+2024-5-27 17:22:16-debug: refresh db assets success
+2024-5-27 17:22:16-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-27 17:22:16-debug: asset-db:refresh-all-database (85ms)
+2024-5-27 17:22:16-debug: asset-db-hook-engine-extends-afterRefresh (2ms)
+2024-5-27 17:22:16-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-27 17:22:16-debug: asset-db:worker-effect-data-processing (2ms)
+2024-5-27 17:47:11-debug: refresh db internal success
+2024-5-27 17:47:11-debug: refresh db assets success
+2024-5-27 17:47:11-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-27 17:47:11-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-27 17:47:11-debug: asset-db:refresh-all-database (152ms)
+2024-5-27 17:47:11-debug: asset-db:worker-effect-data-processing (22ms)
+2024-5-27 17:47:11-debug: asset-db-hook-engine-extends-afterRefresh (23ms)
